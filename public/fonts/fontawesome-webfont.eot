@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Page not found</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="some meta description">
+    <meta name="keywords" content="some meta keywords">
+
+    <!-- Le styles -->
+    <link href="/sites/51e5ecd762a250a2ab000002/theme/stylesheets/bootstrap.css" media="screen" rel="stylesheet" type="text/css">
+    <link href="/sites/51e5ecd762a250a2ab000002/theme/stylesheets/bootstrap-responsive.css" media="screen" rel="stylesheet" type="text/css">
+    <link href="/sites/51e5ecd762a250a2ab000002/theme/stylesheets/application.css" media="screen" rel="stylesheet" type="text/css">
+
+    <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+  </head>
+
+  <body>
+
+    <div class="container-narrow">
+
+      <div class="masthead">
+        <ul class="nav nav-pills pull-right">
+          <li class="active"><a href="/">Home</a></li>
+          <li><a href="/about">About</a></li>
+          <li><a href="/contact">Contact</a></li>
+        </ul>
+        <h3 class="muted">grizzlychomps</h3>
+      </div>
+
+      <hr>
+
+      
+
+<div class="jumbotron">
+  <h1>Arrggggh, page not found</h1>
+</div>
+
+
+
+      <hr>
+
+      <div class="footer">
+  <p>&copy; Company 2013 </p>
+</div>
+
+    </div> <!-- /container -->
+
+    <!-- Le javascript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+    <script src="/sites/51e5ecd762a250a2ab000002/theme/javascripts/bootstrap.js" type="text/javascript" ></script>
+
+  </body>
+</html>
